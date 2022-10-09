@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.prettierrc.js
+.next
+yarn.lock
+package-lock.json
+public
